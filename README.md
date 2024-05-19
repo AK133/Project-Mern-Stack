@@ -22,16 +22,12 @@ Technologies Used
 
 Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/mern-blog-app.git
-```
+1. Clone the repository
 
 2. Navigate to the project directory:
 
 ```bash
-cd mern-blog-app
+cd project-mern-stack
 ```
 
 3. Install the dependencies for the backend:
